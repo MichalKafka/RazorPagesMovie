@@ -1,6 +1,7 @@
 C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\RazorPagesMovie\publish\RazorPagesMovie.exe
 C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\RazorPagesMovie\publish\appsettings.Development.json
 C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\RazorPagesMovie\publish\appsettings.json
+C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\RazorPagesMovie\publish\appsettings.Production.json
 C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\RazorPagesMovie\publish\RazorPagesMovie.dll
 C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\RazorPagesMovie\publish\RazorPagesMovie.runtimeconfig.json
 C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\RazorPagesMovie\publish\RazorPagesMovie.pdb

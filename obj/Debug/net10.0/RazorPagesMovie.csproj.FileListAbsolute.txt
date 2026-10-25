@@ -376,3 +376,5 @@ C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\RazorPagesMovie\bin\Debug\net10
 C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\RazorPagesMovie\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\RazorPagesMovie\obj\Debug\net10.0\RazorPagesMovie.csproj.AssemblyReference.cache
 C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\RazorPagesMovie\obj\Debug\net10.0\RazorPag.6F531686.Up2Date
+C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\RazorPagesMovie\bin\Debug\net10.0\appsettings.Production.json
+C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\RazorPagesMovie\obj\Debug\net10.0\RazorPagesMovie.sourcelink.json

@@ -370,3 +370,5 @@ C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\RazorPagesMovie\obj\Release\net
 C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\RazorPagesMovie\obj\Release\net10.0\RazorPagesMovie.pdb
 C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\RazorPagesMovie\obj\Release\net10.0\RazorPagesMovie.genruntimeconfig.cache
 C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\RazorPagesMovie\obj\Release\net10.0\ref\RazorPagesMovie.dll
+C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\RazorPagesMovie\bin\Release\net10.0\appsettings.Production.json
+C:\Users\micha\OneDrive\My Documents\DEV\ASP.NET\RazorPagesMovie\obj\Release\net10.0\RazorPagesMovie.sourcelink.json
